@@ -1,6 +1,6 @@
 # Disciplina
 
-Legal discipline and structured learning. by Strategos.
+Study tool. by Strategos. by Strategos.
 
 GitHub: https://github.com/ShadowStrike-CTF/disciplina
 
