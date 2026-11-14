@@ -8,7 +8,7 @@ build-backend = "hatchling.build"
 [project]
 name = "disciplina"
 version = "0.0.1"
-description = "Legal discipline and structured learning. by Strategos."
+description = "Strategos tool. Coming soon."
 readme = "README.md"
 license = {text = "Proprietary"}
 authors = [

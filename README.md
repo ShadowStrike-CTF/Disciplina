@@ -1,6 +1,6 @@
 # Disciplina
 
-Study tool. by Strategos. by Strategos.
+Strategos tool. Coming soon.
 
 GitHub: https://github.com/ShadowStrike-CTF/disciplina
 
